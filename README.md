@@ -4,6 +4,7 @@
 <h4>   　🔭 I’m a student at Sejong Univ 🏫</h4> 
 <h4>   　🌱 I just started learning Swift and iOS 😂</h4>
 <h4>   　💬 Ask me about anything 😄 </h4>
+  <br></br>
 </div>
 <div align="center">
   
