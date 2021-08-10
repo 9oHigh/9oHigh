@@ -8,7 +8,12 @@
 </div>
 <div align="center">
   
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=9oHigh&layout=compact)  
+  
+<br></br>
 ![9oHigh's GitHub stats](https://github-readme-stats.vercel.app/api?username=9oHigh&show_icons=true)
+
 <br></br>
 ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=9oHigh&theme=vue)
+
 </div>
