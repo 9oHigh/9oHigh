@@ -18,4 +18,3 @@ See you at the top 🏃🏻‍♂️
 ### Tech Stack 🧑🏻‍💻 
 <img src="https://img.shields.io/badge/-iOS-%23000000?style=for-the-badge&logo=Apple&logoColor=#000000"/>　
 <img src="https://img.shields.io/badge/-Swift-%23000000?style=for-the-badge&logo=Swift&logoColor=#F05138"/>　
-<img src="https://img.shields.io/badge/-Realm-%23000000?style=for-the-badge&logo=Realm&logoColor=#39477F"/>　
