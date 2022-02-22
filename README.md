@@ -14,7 +14,9 @@ See you at the top 🏃🏻‍♂️
 
 ### How to reach to me 📮 
 　☺︎　[Send Me An Email](mailto:usKet@icloud.com)
-
+ 
+　☺︎　[Blog](https://pooh-footprints.tistory.com/)　
+ 
 ### Tech Stack 🧑🏻‍💻 
 <img src="https://img.shields.io/badge/-iOS-%23000000?style=for-the-badge&logo=Apple&logoColor=#000000"/>　
 <img src="https://img.shields.io/badge/-Swift-%23000000?style=for-the-badge&logo=Swift&logoColor=#F05138"/>　
