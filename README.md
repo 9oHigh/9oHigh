@@ -2,7 +2,7 @@
  ![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2F9oHigh%2Fhit-counter&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=Hits&edge_flat=false)
 
 ### GyeongHoo Lee
-Hi. I want to be a cool iOS app developer.  
+Hi~ I want to be a cool iOS app developer.  
 It hasn't been long since I started learning, but I'm trying my best!  
 See you at the top 🏃🏻‍♂️  
 
