@@ -3,8 +3,7 @@
 
 ### GyeongHoo Lee
 Hi~ I want to be a cool iOS app developer.  
-It hasn't been long since I started learning, but I'm trying my best!  
-See you at the top 🏃🏻‍♂️  
+It hasn't been long since I started learning, but I'm trying my best!    
 
 ### Activity 🏋🏻‍♀️
 　☺︎　SeSAC - iOS App Developer Course ( 2021.10 ~ 2022.2 )
