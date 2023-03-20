@@ -9,7 +9,7 @@ It hasn't been long since I started learning, but I'm trying my best!
 　☺︎　SeSAC - iOS App Developer Course ( 2021.10 ~ 2022.2 )
 
 ### My APPS 📱
- 　☺︎︎　[티드 - 나는 이걸 이렇게 부르기로 했다](https://apps.apple.com/kr/app/%ED%8B%B0%EB%93%9C-%EB%82%98%EB%8A%94-%EC%9D%B4%EA%B1%B8-%EC%9D%B4%EB%A0%87%EA%B2%8C-%EB%B6%80%EB%A5%B4%EA%B8%B0%EB%A1%9C-%ED%96%88%EB%8B%A4/id1597847159 "당장 다운로드 받기")
+ 　☺︎︎　[티드 - 나는 이걸 이렇게 부르기로 했다 (서비스 종료)](https://apps.apple.com/kr/app/%ED%8B%B0%EB%93%9C-%EB%82%98%EB%8A%94-%EC%9D%B4%EA%B1%B8-%EC%9D%B4%EB%A0%87%EA%B2%8C-%EB%B6%80%EB%A5%B4%EA%B8%B0%EB%A1%9C-%ED%96%88%EB%8B%A4/id1597847159 "당장 다운로드 받기")
 
 ### How to reach to me 📮 
 　☺︎　[Send Me An Email](mailto:usKet@icloud.com)
